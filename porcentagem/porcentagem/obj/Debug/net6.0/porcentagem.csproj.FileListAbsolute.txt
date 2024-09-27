@@ -1,0 +1,15 @@
+C:\Users\junior\Downloads\VS2022\porcentagem\porcentagem\bin\Debug\net6.0\porcentagem.exe
+C:\Users\junior\Downloads\VS2022\porcentagem\porcentagem\bin\Debug\net6.0\porcentagem.deps.json
+C:\Users\junior\Downloads\VS2022\porcentagem\porcentagem\bin\Debug\net6.0\porcentagem.runtimeconfig.json
+C:\Users\junior\Downloads\VS2022\porcentagem\porcentagem\bin\Debug\net6.0\porcentagem.dll
+C:\Users\junior\Downloads\VS2022\porcentagem\porcentagem\bin\Debug\net6.0\porcentagem.pdb
+C:\Users\junior\Downloads\VS2022\porcentagem\porcentagem\obj\Debug\net6.0\porcentagem.csproj.AssemblyReference.cache
+C:\Users\junior\Downloads\VS2022\porcentagem\porcentagem\obj\Debug\net6.0\porcentagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junior\Downloads\VS2022\porcentagem\porcentagem\obj\Debug\net6.0\porcentagem.AssemblyInfoInputs.cache
+C:\Users\junior\Downloads\VS2022\porcentagem\porcentagem\obj\Debug\net6.0\porcentagem.AssemblyInfo.cs
+C:\Users\junior\Downloads\VS2022\porcentagem\porcentagem\obj\Debug\net6.0\porcentagem.csproj.CoreCompileInputs.cache
+C:\Users\junior\Downloads\VS2022\porcentagem\porcentagem\obj\Debug\net6.0\porcentagem.dll
+C:\Users\junior\Downloads\VS2022\porcentagem\porcentagem\obj\Debug\net6.0\refint\porcentagem.dll
+C:\Users\junior\Downloads\VS2022\porcentagem\porcentagem\obj\Debug\net6.0\porcentagem.pdb
+C:\Users\junior\Downloads\VS2022\porcentagem\porcentagem\obj\Debug\net6.0\porcentagem.genruntimeconfig.cache
+C:\Users\junior\Downloads\VS2022\porcentagem\porcentagem\obj\Debug\net6.0\ref\porcentagem.dll
